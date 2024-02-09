@@ -1,0 +1,7 @@
+<resources>
+    <array name="raw_files">
+        <item>@raw/a</item>
+        <item>@raw/b</item>
+        <!-- Diğer ses dosyaları -->
+    </array>
+</resources>
